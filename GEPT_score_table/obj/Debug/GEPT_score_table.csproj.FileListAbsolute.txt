@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\GEPT_score_table\GEPT_score_table\bin\Debug\GEPT_score_table.exe.config
+C:\Users\USER\source\repos\GEPT_score_table\GEPT_score_table\bin\Debug\GEPT_score_table.exe
+C:\Users\USER\source\repos\GEPT_score_table\GEPT_score_table\bin\Debug\GEPT_score_table.pdb
+C:\Users\USER\source\repos\GEPT_score_table\GEPT_score_table\obj\Debug\GEPT_score_table.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\GEPT_score_table\GEPT_score_table\obj\Debug\GEPT_score_table.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GEPT_score_table\GEPT_score_table\obj\Debug\GEPT_score_table.exe
+C:\Users\USER\source\repos\GEPT_score_table\GEPT_score_table\obj\Debug\GEPT_score_table.pdb
